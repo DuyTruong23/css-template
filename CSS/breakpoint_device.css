@@ -1,0 +1,14 @@
+/* Mobile */
+@media screen and (max-width: 739px) {
+  /* CSS code */
+}
+
+/* Tablet  */
+@media screen and (min-width: 740px) and (max-width: 1023px) {
+  /* CSS code */
+}
+
+/* PC */
+@media screen and (min-width: 1024) {
+  /* CSS code */
+}
